@@ -41,7 +41,7 @@ O código configura o PWM para o **servomotor (GPIO 22)** e o **LED RGB (GPIO 12
 - A ferramenta **BitDogLab** permite observar o comportamento do LED RGB conforme o controle PWM do servo.
 
 ## 📷 Demonstração
-Confira o vídeo da simulação: [Clique aqui](https://www.dropbox.com/scl/fi/i32f4t9dqggn4c1durb4o/2025-02-04-08-52-05.mkv?rlkey=s6ofq9yumuts3h8chte052cuj&dl=0)
+Confira o vídeo da simulação: [Clique aqui](https://youtube.com/shorts/-I59kfe73-0)
 
 ## 📚 Referências
 - [Pico SDK Documentation](https://datasheets.raspberrypi.com/pico/raspberry-pi-pico-c-sdk.pdf)
