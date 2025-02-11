@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/PWM_bitDogLab.uf2'
+elf = 'build/PWM_bitDogLab.elf'
